@@ -1,0 +1,7 @@
+CC0 1.0 Universal
+
+To the extent possible under law, HMLabs-Gaming has waived all copyright and related or neighboring rights to the original visual assets in this repository, including the files in `assets/` and the resource-pack icon `pack.png`.
+
+These assets are dedicated to the public domain under the Creative Commons CC0 1.0 Universal dedication.
+
+https://creativecommons.org/publicdomain/zero/1.0/
